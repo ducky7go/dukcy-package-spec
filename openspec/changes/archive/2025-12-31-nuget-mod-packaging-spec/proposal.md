@@ -1,8 +1,9 @@
 # Proposal: NuGet Mod Packaging Specification
 
 **Change ID:** `nuget-mod-packaging-spec`
-**Status:** Draft
+**Status:** ExecutionCompleted
 **Created:** 2025-12-31
+**Completed:** 2025-12-31
 
 ---
 
