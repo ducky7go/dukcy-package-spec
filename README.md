@@ -89,4 +89,4 @@ MyMod/
 
 ---
 
-**注意**：本仓库使用 [OpenSpec](openspec/AGENTS.md) 进行规范变更管理。
+**注意**：本仓库使用 [OpenSpec](../../openspec/AGENTS.md)（位于父仓库 `ducky7go-mono`） 进行规范变更管理。
