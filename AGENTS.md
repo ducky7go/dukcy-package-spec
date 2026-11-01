@@ -26,7 +26,6 @@ This repo has no `openspec/` directory. OpenSpec for all `ducky7go-mono` sub-rep
 - 章节编号、字段表格格式在三份规范间保持一致；示例使用 `info.ini` 的 `key = value` 平铺格式。
 - 版本目录是 `v1.0/`；破坏性变更应新增版本目录而不是原地覆盖（目录结构按此设计，仓库中尚无第二个版本可参考）。
 - 规范变更走 OpenSpec 提案流程（见上方 OpenSpec 说明与 `../../openspec/AGENTS.md`）。
-- 提交信息：`git log` 中可见的仅有 `final ext and nuget specs`（浅克隆，历史极短），无更多约定可验证。
 
 ## 关键约束（来自规范，修改时必须保持）
 
